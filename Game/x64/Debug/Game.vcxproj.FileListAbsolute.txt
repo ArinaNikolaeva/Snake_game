@@ -1,0 +1,7 @@
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.vcxproj.AssemblyReference.cache
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.SplashScreen.resources
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.vcxproj.GenerateResource.cache
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.Accounts.resources
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.MenuForm.resources
+C:\Users\arina\Desktop\Game\Game\x64\Debug\Game.SnakeForm.resources
